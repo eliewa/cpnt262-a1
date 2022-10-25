@@ -1,0 +1,26 @@
+button {
+  font-size: 20px;
+  padding: 10px;
+}
+
+h1 {
+  width: 400px;
+  margin: auto;
+  padding-top: 100px;
+}
+
+button:hover {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.404);
+}
+
+button:active {
+  background-color: black;
+  color: white;
+}
+
+.btn {
+  width: 400px;
+  margin: auto;
+  margin-top: 20px;
+  text-align:center;
+}
